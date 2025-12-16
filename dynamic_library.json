@@ -11,9 +11,15 @@
       "version": "1.0.0",
       "url": "https://github.com/BearOwner/loader-ota/releases/download/v25/libpubgm.so",
       "sha256": "sha256:70aca3f021375e9df89be697793a66e5d3ab2063efe2767c48271392451dbe3f"
+    },
+   {
+      "name": "libbear_skins.so",
+      "version": "1.0.0",
+      "url": "https://github.com/BearOwner/loader-ota/releases/download/v25/libpubgm.so",
+      "sha256": "sha256:70aca3f021375e9df89be697793a66e5d3ab2063efe2767c48271392451dbe3f"
     }
   ]
-
 }
+
 
 
