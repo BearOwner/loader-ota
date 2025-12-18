@@ -4,7 +4,7 @@
       "name": "libbear.so",
       "version": "1.0.1",
       "url": "https://github.com/BearOwner/loader-ota/releases/download/v25/libbear.so",
-      "sha256": "sha256:777ccd34e2e87598b64e1f6126b59a914e5d0f16a9263a5b3900fee4d5121998"
+      "sha256": "sha256:324d661d79907bdc8dfca1dc5dc7bf24a1ffa815d65605a6b4649814fcaf44ed"
     },
        {
       "name": "libpubgm.so",
@@ -20,6 +20,7 @@
     }
   ]
 }
+
 
 
 
